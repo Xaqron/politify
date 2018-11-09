@@ -1,0 +1,23 @@
+{
+  "name": "politify",
+  "version": "1.0.0",
+  "description": "A Javascript library that promises to run any function as you wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaqron/politify.git"
+  },
+  "keywords": [
+    "function",
+    "promise"
+  ],
+  "author": "Xaqron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xaqron/politify/issues"
+  },
+  "homepage": "https://github.com/Xaqron/politify#readme"
+}
